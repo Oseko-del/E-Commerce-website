@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Sydney Oseko Juma
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-sydneyoseko.netlify.app-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://sydneyoseko.netlify.app)
 [![Twitter](https://img.shields.io/badge/Twitter-@Oseko__17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Oseko_17)
 [![Gmail](https://img.shields.io/badge/Gmail-osekosydney@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osekosydney@gmail.com)
 
@@ -37,10 +37,8 @@ IT Student & Web Developer passionate about building practical solutions through
 |---|---|---|
 | 🛒 Ndovu POS | Point of Sale system for retail management | Python, SQLite |
 |  Pharmacy Website | AI-powered chatbot for prescription help | Flask, Gemini API |
-| 🛍 Alpha E-commerce | Full e-commerce platform like Jumia | Flask, HTML/CSS |
+| 🛍 Alpha E-commerce | Full e-commerce platform like Jumia | Javascript, HTML/CSS |
 | 🤖 Self-Hosted AI Agent | Local AI pipeline without cloud APIs | Python, n8n |
-
----
 
 ---
 
