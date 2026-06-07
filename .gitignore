@@ -1,0 +1,17 @@
+# Environment variables (API keys, secrets)
+.env
+server/.env
+
+# Node modules (too large, auto-installed)
+node_modules/
+server/node_modules/
+
+# VS Code settings
+.vscode/
+
+# Uploads folder (user uploaded files)
+server/uploads/
+
+# Lock files (optional)
+package-lock.json
+server/package-lock.json
